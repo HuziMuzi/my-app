@@ -14,7 +14,7 @@ function App() {
             <div>Article 1</div>
             <Accordion titleValue={'This is title Accordion'} collapsed={true}/>
             <div>Article 2</div>
-            <Accordion titleValue={'This is BODY paragraf'} collapsed={true}/>
+            <Accordion titleValue={'This is BODY paragraf'} collapsed={false}/>
             <Rating value={1} />
             <Rating value={2} />
             <Rating value={3} />
